@@ -269,7 +269,7 @@ p {
 
 /* Services Section */
 #services {
-	background-image: url(img/fondoservices.jpg);
+	background-image: url(Img/fondoservices.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -301,7 +301,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(img/fondoservices.jpg);
+	background-image: url(Img/fondoservices.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -469,7 +469,7 @@ p {
 
 /* contact Section */
 #contact {
-	background-image: url(img/fondocontact.jpg);
+	background-image: url(Img/fondocontact.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
